@@ -25,19 +25,21 @@ Scikit-learn
 Matplotlib, Seaborn
 Yellowbrick (Elbow Method)
 PCA (Dimensionality Reduction)
-🚀 How to Run
-Install requirements:
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
+
+🚀 How to Run Install requirement:
+
+1.pip install -r requirements.txt
+
 2.Launch Jupyter Notebook:
+
 python -m notebook
-3. Open the notebooks/ folder and run the clustering/modelling notebook.
+
+3.Open the notebooks/ folder and run the clustering/modelling notebook.
 
 📊 Results Summary
 K-Means clustering identified 4 distinct patient groups
 PCA visualisation showed clear cluster separation
 Avg glucose level contributed strongly to cluster segmentation
-👥 Team Project Note
 
-This is a group-based university project. This repository highlights the overall project, while emphasising my personal contribution to the clustering analysis.
+👥 Team Project Note
+This is a group project .This repository highlights the overall project, while emphasising my personal contribution to the clustering analysis.
